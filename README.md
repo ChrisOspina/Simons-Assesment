@@ -1,9 +1,6 @@
 # Simons-Assesment
 A Linux terminal skills assesment for job interview requierements
 
-
- Assesment Commands used
-
 //view the url for the webpage
 curl https://ita.ee.lbl.gov/html/contrib/Sask-HTTP.html
 //get the gz file
